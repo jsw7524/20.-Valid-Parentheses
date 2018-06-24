@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. Valid Parentheses", "20. Valid Parentheses\20. Valid Parentheses.csproj", "{B6938266-F95C-420F-9CCF-BA91D35E6CFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{90F77279-19F9-407D-B605-DBB16378A75E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B6938266-F95C-420F-9CCF-BA91D35E6CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6938266-F95C-420F-9CCF-BA91D35E6CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6938266-F95C-420F-9CCF-BA91D35E6CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F77279-19F9-407D-B605-DBB16378A75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F77279-19F9-407D-B605-DBB16378A75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F77279-19F9-407D-B605-DBB16378A75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F77279-19F9-407D-B605-DBB16378A75E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
